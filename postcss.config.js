@@ -1,0 +1,10 @@
+const autoprefixer = require('autoprefixer');
+
+module.exports = {
+  plugins: {
+    autoprefixer: {},
+  },
+  options: {
+    sourceMap: true,
+  },
+};
