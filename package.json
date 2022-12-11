@@ -31,14 +31,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lunarkbot/kbot.page-frontend.git"
+    "url": "git+https://github.com/lunarkbot/webpack-template.git"
   },
   "author": "lunarkbot",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lunarkbot/kbot.page-frontend/issues"
+    "url": "https://github.com/lunarkbot/webpack-template/issues"
   },
-  "homepage": "https://github.com/lunarkbot/kbot.page-frontend#readme",
+  "homepage": "https://github.com/lunarkbot/webpack-template#readme",
   "browserslist": [
     "last 4 version",
     "not dead"
